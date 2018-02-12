@@ -1,16 +1,43 @@
 id,city,mayor,date,year,speech_given,collected,type,note,source
+austin_2015,Austin,Steve Adler,2015-04-13,2015,Yes,Yes,State of the City,NA,http://www.mayoradler.com/speech-state-of-our-city-april-13-2015/
+austin_2016,Austin,Steve Adler,2016-02-16,2016,Yes,Yes,State of the City,NA,http://www.mayoradler.com/great-cities-do-big-things-state-of-our-city-feb-16-2016-austin-texas/
+austin_2017,Austin,Steve Adler,2017-01-28,2017,Yes,Yes,State of the City,NA,http://www.mayoradler.com/2017-state-of-the-city-address-the-spirit-of-austin/
+charlotte_2015,Charlotte,NA,NA,NA,NA,NA,NA,NA,NA
+charlotte_2016,Charlotte,NA,NA,NA,NA,NA,NA,NA,NA
+charlotte_2017,Charlotte,NA,NA,NA,NA,NA,NA,NA,NA
 chicago_2015,Chicago,Rahm Emanuel,2015-09-22,2015,Yes,No,Budget Address,Budget address,NA
 chicago_2016,Chicago,Rahm Emanuel,2016-10-11,2016,Yes,No,Budget Address,Budget address,https://www.cityofchicago.org/content/dam/city/depts/mayor/Press%20Room/Press%20Releases/2016/October/10.11.16MRE2017BudgetAddress.pdf
 chicago_2017,Chicago,Rahm Emanuel,2017-10-18,2017,Yes,No,Budget Address,Budget address,https://www.cityofchicago.org/content/dam/city/depts/mayor/Press%20Room/Press%20Releases/2017/October/2018BudgetRemarks.pdf
+columbus_2015,Columbus,Michael B. Coleman,2015-02-19,2015,Yes,No,State of the City,NA,NA
+columbus_2016,Columbus,Andrew Ginther,2016-02-24,2016,Yes,Yes,State of the City,NA,https://www.columbus.gov/Templates/Detail.aspx?id=2147484839
+columbus_2017,Columbus,Andrew Ginther,2017-02-23,2017,Yes,Yes,State of the City,NA,https://www.columbus.gov/Templates/Detail.aspx?id=2147494899
 dallas_2015,Dallas,Mike Rawlings,2015-12-01,2015,Yes,No,State of the City,The speech happened but I haven't found a transcript,NA
 dallas_2016,Dallas,Mike Rawlings,2016-12-08,2016,Yes,No,State of the City,The speech happened but I haven't found a transcript,NA
 dallas_2017,Dallas,Mike Rawlings,NA,2017,No,NA,State of the City,Speech to come in December 2017,NA
+denver_2015,Denver,Michael B. Hancock,2015-07-20,2015,Yes,No,Inaugural Speech,NA,http://www.denverpost.com/2015/07/20/denver-mayor-michael-hancocks-2015-inaugural-address-full-text/
+denver_2016,Denver,Michael B. Hancock,2017-07-11,2016,Yes,No,State of the City,NA,https://www.denvergov.org/content/dam/denvergov/Portals/728/documents/2016_SOTC/2016_State_of_the_City_Press_Release_Remarks_as_Prepared.pdf
+denver_2017,Denver,Michael B. Hancock,2017-07-10,2017,Yes,No,State of the City,NA,http://www.denvergov.org/content/dam/denvergov/Portals/728/documents/Documents/2017%20State%20of%20the%20City%20Press%20Release%20Remarks%20as%20Prepared.pdf
+el_paso_2015,El Paso,NA,NA,NA,NA,NA,NA,NA,NA
+el_paso_2016,El Paso,NA,NA,NA,NA,NA,NA,NA,NA
+el_paso_2017,El Paso,NA,NA,NA,NA,NA,NA,NA,NA
+fort_worth_2015,Fort Worth,Betsy Price,NA,NA,NA,NA,NA,NA,NA
+fort_worth_2016,Fort Worth,Betsy Price,2016-02-16,2016,Yes,No,State of the City,http://www.betsypriceformayor.com/state-of-the-city-address/,NA
+fort_worth_2017,Fort Worth,Betsy Price,2017-02-22,2017,Yes,No,State of the City,Annoucement http://fortworthtexas.gov/news/2017/01/State-of-the-City/,NA
 houston_2015,Houston,Annise Parker,2015-04-16,2015,Yes,Yes,State of the City,NA,https://web.archive.org/web/20150909174541/http://www.houstontx.gov/mayor/stateofthecity2015.html
 houston_2016,Houston,Sylvester Turner,2016-05-04,2016,Yes,Yes,State of the City,NA,http://www.houstontx.gov/mayor/2016stateofthecity.html
 houston_2017,Houston,Sylvester Turner,2017-05-04,2017,Yes,Yes,State of the City,NA,http://www.houstontx.gov/mayor/2017stateofthecity.html
+indianapolis_2015,Indianapolis,Greg Ballard,2015-02-27,2015,Yes,No,State of the City,NA,NA
+indianapolis_2016,Indianapolis,Joe Hogsett,2016-05-11,2016,Yes,No,State of the City,PDF punctuation is rough,http://www.indy.gov/eGov/Mayor/CJRTF/Documents/Appendix%20A%20-%20State%20of%20the%20City%20Address.pdf
+indianapolis_2017,Indianapolis,Joe Hogsett,2017-04-17,2017,Yes,No,State of the City,NA,NA
+jacksonville_2015,Jacksonville,Lenny Curry,2015-07-20,2015,Yes,No,Budget Address,Annual budget speech http://jacksonville.com/news/metro/2015-07-20/story/mayor-curry-lays-out-his-proposed-budget-address-city-council,NA
+jacksonville_2016,Jacksonville,Lenny Curry,2016-07-18,2016,Yes,No,Budget Address,Annual budget speech http://www.firstcoastnews.com/news/local/watch-live-mayor-lenny-curry-to-present-his-new-budget/275984986,NA
+jacksonville_2017,Jacksonville,Lenny Curry,2017-07-17,2017,Yes,No,Budget Address,Jacksonville does annual budget speeches,NA
 los_angeles_2015,Los Angeles,Eric Garcetti,2015-04-14,2015,Yes,Yes,State of the City,I could only find the media copy,http://www.scpr.org/news/2015/04/14/51011/los-angeles-state-of-the-city-2015-eric-garcetti/#text
 los_angeles_2016,Los Angeles,Eric Garcetti,2016-04-16,2016,Yes,Yes,State of the City,Double check date,https://www.lamayor.org/sites/g/files/wph446/f/landing_pages/files/2016%20State%20of%20the%20City%20Address.pdf
 los_angeles_2017,Los Angeles,Eric Garcetti,2017-04-20,2017,Yes,Yes,State of the City,Double check date,https://www.lamayor.org/sites/g/files/wph446/f/landing_pages/files/StateoftheCity2017--ForMediaDistribution.pdf
+nashville_2015,Nashville,Megan Barry,2015-09-25,2015,Yes,Yes,Inaugural Speech,This inaugural speech is much shorter than others,https://www.nashville.gov/Portals/0/SiteContent/MayorsOffice/docs/speeches/150925_MB_InauguralSpeech.pdf
+nashville_2016,Nashville,Megan Barry,2016-04-29,2016,Yes,Yes,State of the City,NA,https://www.nashville.gov/Portals/0/SiteContent/MayorsOffice/docs/news/53rdStateofMetroAddressbyMayorMeganBarry.pdf
+nashville_2017,Nashville,Megan Barry,2017-04-26,2017,Yes,Yes,State of the City,NA,https://www.nashville.gov/Portals/0/SiteContent/MayorsOffice/State%20of%20Metro%202017%20-%20FINAL.pdf
 new_york_2015,New York,Bill de Blasio,2015-02-03,2015,Yes,Yes,State of the City,NA,http://www.nytimes.com/2015/02/04/nyregion/new-york-mayor-bill-de-blasios-state-of-the-city-address.html
 new_york_2016,New York,Bill de Blasio,2016-02-04,2016,Yes,Yes,State of the City,NA,https://medium.com/cityofny/one-nyc-working-for-our-neighborhoods-35ad77dd7780
 new_york_2017,New York,Bill de Blasio,2017-02-13,2017,Yes,Yes,State of the City,NA,https://medium.com/@nycgov/this-is-your-city-6230765d11c
@@ -32,33 +59,6 @@ san_francisco_2017,San Francisco,Edwin M. Lee,2017-01-26,2017,Yes,Yes,State of t
 san_jose_2015,San Jose,Sam Liccardo,2015-03-14,2015,Yes,Yes,State of the City,NA,https://www.sanjoseca.gov/DocumentCenter/View/41359
 san_jose_2016,San Jose,Sam Liccardo,2016-03-05,2016,Yes,Yes,State of the City,NA,http://www.sanjoseca.gov/DocumentCenter/View/54769
 san_jose_2017,San Jose,Sam Liccardo,2017-02-11,2017,Yes,Yes,State of the City,NA,http://www.sanjoseca.gov/DocumentCenter/View/66111
-austin_2015,Austin,Steve Adler,2015-04-13,2015,Yes,Yes,State of the City,NA,http://www.mayoradler.com/speech-state-of-our-city-april-13-2015/
-austin_2016,Austin,Steve Adler,2016-02-16,2016,Yes,Yes,State of the City,NA,http://www.mayoradler.com/great-cities-do-big-things-state-of-our-city-feb-16-2016-austin-texas/
-austin_2017,Austin,Steve Adler,2017-01-28,2017,Yes,Yes,State of the City,NA,http://www.mayoradler.com/2017-state-of-the-city-address-the-spirit-of-austin/
-jacksonville_2015,Jacksonville,Lenny Curry,2015-07-20,2015,Yes,No,Budget Address,Annual budget speech http://jacksonville.com/news/metro/2015-07-20/story/mayor-curry-lays-out-his-proposed-budget-address-city-council,NA
-jacksonville_2016,Jacksonville,Lenny Curry,2016-07-18,2016,Yes,No,Budget Address,Annual budget speech http://www.firstcoastnews.com/news/local/watch-live-mayor-lenny-curry-to-present-his-new-budget/275984986,NA
-jacksonville_2017,Jacksonville,Lenny Curry,2017-07-17,2017,Yes,No,Budget Address,Jacksonville does annual budget speeches,NA
-columbus_2015,Columbus,Michael B. Coleman,2015-02-19,2015,Yes,No,State of the City,NA,NA
-columbus_2016,Columbus,Andrew Ginther,2016-02-24,2016,Yes,Yes,State of the City,NA,https://www.columbus.gov/Templates/Detail.aspx?id=2147484839
-columbus_2017,Columbus,Andrew Ginther,2017-02-23,2017,Yes,Yes,State of the City,NA,https://www.columbus.gov/Templates/Detail.aspx?id=2147494899
-indianapolis_2015,Indianapolis,Greg Ballard,2015-02-27,2015,Yes,No,State of the City,NA,NA
-indianapolis_2016,Indianapolis,Joe Hogsett,2016-05-11,2016,Yes,No,State of the City,PDF punctuation is rough,http://www.indy.gov/eGov/Mayor/CJRTF/Documents/Appendix%20A%20-%20State%20of%20the%20City%20Address.pdf
-indianapolis_2017,Indianapolis,Joe Hogsett,2017-04-17,2017,Yes,No,State of the City,NA,NA
-fort_worth_2015,Fort Worth,Betsy Price,NA,NA,NA,NA,NA,NA,NA
-fort_worth_2016,Fort Worth,Betsy Price,2016-02-16,2016,Yes,No,State of the City,http://www.betsypriceformayor.com/state-of-the-city-address/,NA
-fort_worth_2017,Fort Worth,Betsy Price,2017-02-22,2017,Yes,No,State of the City,Annoucement http://fortworthtexas.gov/news/2017/01/State-of-the-City/,NA
-charlotte_2015,Charlotte,NA,NA,NA,NA,NA,NA,NA,NA
-charlotte_2016,Charlotte,NA,NA,NA,NA,NA,NA,NA,NA
-charlotte_2017,Charlotte,NA,NA,NA,NA,NA,NA,NA,NA
 seattle_2015,Seattle,Edward B. Murray,2015-02-17,2015,Yes,No,State of the City,NA,http://murray.seattle.gov/mayor-murrays-state-of-the-city-speech-as-prepared/
 seattle_2016,Seattle,Edward B. Murray,2016-02-16,2016,Yes,No,State of the City,NA,http://murray.seattle.gov/wp-content/uploads/2016/02/FINAL-SPEECH-2016-State-of-the-City-1-1.pdf
 seattle_2017,Seattle,Edward B. Murray,2017-02-21,2017,Yes,No,State of the City,NA,http://murray.seattle.gov/state-of-the-city-2017/
-denver_2015,Denver,Michael B. Hancock,2015-07-20,2015,Yes,No,Inaugural Speech,NA,http://www.denverpost.com/2015/07/20/denver-mayor-michael-hancocks-2015-inaugural-address-full-text/
-denver_2016,Denver,Michael B. Hancock,2017-07-11,2016,Yes,No,State of the City,NA,https://www.denvergov.org/content/dam/denvergov/Portals/728/documents/2016_SOTC/2016_State_of_the_City_Press_Release_Remarks_as_Prepared.pdf
-denver_2017,Denver,Michael B. Hancock,2017-07-10,2017,Yes,No,State of the City,NA,http://www.denvergov.org/content/dam/denvergov/Portals/728/documents/Documents/2017%20State%20of%20the%20City%20Press%20Release%20Remarks%20as%20Prepared.pdf
-el_paso_2015,El Paso,NA,NA,NA,NA,NA,NA,NA,NA
-el_paso_2016,El Paso,NA,NA,NA,NA,NA,NA,NA,NA
-el_paso_2017,El Paso,NA,NA,NA,NA,NA,NA,NA,NA
-nashville_2015,Nashville,Megan Barry,2015-09-25,2015,Yes,Yes,Inaugural Speech,This inaugural speech is much shorter than others,https://www.nashville.gov/Portals/0/SiteContent/MayorsOffice/docs/speeches/150925_MB_InauguralSpeech.pdf
-nashville_2016,Nashville,Megan Barry,2016-04-29,2016,Yes,Yes,State of the City,NA,https://www.nashville.gov/Portals/0/SiteContent/MayorsOffice/docs/news/53rdStateofMetroAddressbyMayorMeganBarry.pdf
-nashville_2017,Nashville,Megan Barry,2017-04-26,2017,Yes,Yes,State of the City,NA,https://www.nashville.gov/Portals/0/SiteContent/MayorsOffice/State%20of%20Metro%202017%20-%20FINAL.pdf
